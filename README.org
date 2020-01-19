@@ -1,0 +1,2 @@
+Hi.
+This is study project aimed to learn HTML5 and CSS3
